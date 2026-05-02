@@ -252,7 +252,7 @@ export default function App() {
                   <>
                     <div className="relative h-32 overflow-hidden">
                       <img 
-                        src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/679021253_4645933489026158_4743766127782606510_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=2cu8Jji_C94Q7kNvwHrprd7&_nc_oc=AdryuAY2BoSfhwt8LXAb6biJHA8T3E8CMTF_nDcJDrs7HTTWTDyk2s2S7bxwtwRC78ib2VKSkam_-zT5IN7b-g_p&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5AFqolW1SOatT4GWsLARD55jxbRP8u_u8CYn2Mjl1LKuxA&oe=6A168E74" 
+                        src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/679110024_27206397482298416_7909903339679338383_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=cGH-uDcXZQIQ7kNvwGy0YH4&_nc_oc=AdpTlAFQo8zTHw4Tex33c_bZbr6U4os8LIriqxmLqWkQuloMunI6Db2oz_WQ_FH-SNiEL2fa8cE2RN_4JAy92Vyu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QHX8P6iFr-BMO2Hu3lnSylP8nTZy8d7LteLDMZ3pSg1jg&oe=6A1DC6C4" 
                         alt="Cover" 
                         className="w-full h-full object-cover"
                         referrerPolicy="no-referrer"
@@ -266,7 +266,7 @@ export default function App() {
                         <div className="relative">
                           <div className="w-24 h-24 rounded-full border-4 border-white overflow-hidden shadow-md">
                             <img 
-                              src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/676303218_2402631733484143_1976596397215798339_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=CdPPC_90PZwQ7kNvwGYjVKK&_nc_oc=AdpFL8ovUh9vBTxp68ELo6NGSlGT6abEBtUOLygrn_WAan90o8PTTRjxOhAOvlHgkWo_sWmloR2iIS1bNOJV8Umh&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5AHd4uck4kbMvHK-nY39jVxwY9bJcNzprsKZZIxAsTR6Cw&oe=6A1699DC" 
+                              src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/684194965_2140931826703602_7584058854748962746_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=-9atwwam4a8Q7kNvwFfyBU4&_nc_oc=Adohvy9KNe8e4lVX1TpeqCPCJBRGcDZDDGsW7IBta9xQnGoqlCxJGreq-1ZWq1sF_CAaNjsop2MNlsNKm3nb9Epm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QE7rEdMZfYVfY5mKiRKp-sCinK7jgtUg8yczVbZzW3XgQ&oe=6A1DEEC3" 
                               alt="Avatar" 
                               className="w-full h-full object-cover"
                               referrerPolicy="no-referrer"
@@ -800,7 +800,7 @@ export default function App() {
       {/* Header / Cover */}
       <div className="relative h-48 sm:h-64 overflow-hidden">
         <img 
-          src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/679021253_4645933489026158_4743766127782606510_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=2cu8Jji_C94Q7kNvwHrprd7&_nc_oc=AdryuAY2BoSfhwt8LXAb6biJHA8T3E8CMTF_nDcJDrs7HTTWTDyk2s2S7bxwtwRC78ib2VKSkam_-zT5IN7b-g_p&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5AFqolW1SOatT4GWsLARD55jxbRP8u_u8CYn2Mjl1LKuxA&oe=6A168E74" 
+          src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/679110024_27206397482298416_7909903339679338383_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=cGH-uDcXZQIQ7kNvwGy0YH4&_nc_oc=AdpTlAFQo8zTHw4Tex33c_bZbr6U4os8LIriqxmLqWkQuloMunI6Db2oz_WQ_FH-SNiEL2fa8cE2RN_4JAy92Vyu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QHX8P6iFr-BMO2Hu3lnSylP8nTZy8d7LteLDMZ3pSg1jg&oe=6A1DC6C4" 
           alt="Cover" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
@@ -840,7 +840,7 @@ export default function App() {
         <div className="relative -mt-12 mb-4 inline-block">
           <div className="w-24 h-24 rounded-full border-4 border-white overflow-hidden shadow-lg">
             <img 
-              src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/676303218_2402631733484143_1976596397215798339_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=CdPPC_90PZwQ7kNvwGYjVKK&_nc_oc=AdpFL8ovUh9vBTxp68ELo6NGSlGT6abEBtUOLygrn_WAan90o8PTTRjxOhAOvlHgkWo_sWmloR2iIS1bNOJV8Umh&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5AHd4uck4kbMvHK-nY39jVxwY9bJcNzprsKZZIxAsTR6Cw&oe=6A1699DC" 
+              src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/684194965_2140931826703602_7584058854748962746_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=-9atwwam4a8Q7kNvwFfyBU4&_nc_oc=Adohvy9KNe8e4lVX1TpeqCPCJBRGcDZDDGsW7IBta9xQnGoqlCxJGreq-1ZWq1sF_CAaNjsop2MNlsNKm3nb9Epm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QE7rEdMZfYVfY5mKiRKp-sCinK7jgtUg8yczVbZzW3XgQ&oe=6A1DEEC3" 
               alt="Profile" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
@@ -895,7 +895,7 @@ export default function App() {
               
               <div className="flex gap-3 mb-6">
                 <img 
-                  src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/676303218_2402631733484143_1976596397215798339_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=CdPPC_90PZwQ7kNvwGYjVKK&_nc_oc=AdpFL8ovUh9vBTxp68ELo6NGSlGT6abEBtUOLygrn_WAan90o8PTTRjxOhAOvlHgkWo_sWmloR2iIS1bNOJV8Umh&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5AHd4uck4kbMvHK-nY39jVxwY9bJcNzprsKZZIxAsTR6Cw&oe=6A1699DC" 
+                  src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/684194965_2140931826703602_7584058854748962746_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=-9atwwam4a8Q7kNvwFfyBU4&_nc_oc=Adohvy9KNe8e4lVX1TpeqCPCJBRGcDZDDGsW7IBta9xQnGoqlCxJGreq-1ZWq1sF_CAaNjsop2MNlsNKm3nb9Epm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QE7rEdMZfYVfY5mKiRKp-sCinK7jgtUg8yczVbZzW3XgQ&oe=6A1DEEC3" 
                   alt="Avatar" 
                   className="w-12 h-12 rounded-full object-cover shrink-0"
                   referrerPolicy="no-referrer"
