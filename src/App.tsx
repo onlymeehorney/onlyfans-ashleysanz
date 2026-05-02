@@ -278,9 +278,9 @@ export default function App() {
 
                       <div className="pt-14 mb-6">
                         <h3 className="text-xl font-bold flex items-center gap-1">
-                          Ashley Sanz <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+                          Pamela R. <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
                         </h3>
-                        <p className="text-gray-400 text-sm">@ashleysanzz</p>
+                        <p className="text-gray-400 text-sm">@pameladr</p>
                       </div>
 
                       {/* Benefits */}
@@ -811,7 +811,7 @@ export default function App() {
           </button>
           <div className="flex flex-col">
             <h1 className="text-white font-bold text-lg flex items-center gap-1 drop-shadow-md">
-              Ashley Sanz <Check size={16} className="bg-[#00aff0] rounded-full p-0.5" />
+              Pamela R. <Check size={16} className="bg-[#00aff0] rounded-full p-0.5" />
             </h1>
             <div className="flex items-center gap-2 text-white/90 text-xs font-medium drop-shadow-md">
               <div className="flex items-center gap-1">
@@ -826,7 +826,7 @@ export default function App() {
               <span className="w-1 h-1 bg-white/60 rounded-full" />
               <div className="flex items-center gap-1">
                 <Heart size={14} />
-                <span>978k</span>
+                <span>87k</span>
               </div>
             </div>
           </div>
@@ -857,10 +857,10 @@ export default function App() {
         {/* Name & Handle */}
         <div className="mb-4">
           <h2 className="text-xl font-bold flex items-center gap-1">
-            Ashley Sanz <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+            Pamela R. <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
           </h2>
           <div className="flex items-center gap-2 text-gray-500 text-sm">
-            <span>@ashleysanzz</span>
+            <span>@pameladr</span>
             <span className="w-1 h-1 bg-gray-300 rounded-full" />
             <span>Available now</span>
           </div>
@@ -891,7 +891,7 @@ export default function App() {
           
           <div className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm">
             <div className="p-4">
-              <h4 className="font-bold text-lg mb-4">Limited offer - 50% off for 30 days!</h4>
+              <h4 className="font-bold text-lg mb-4">Limited offer - 70% off for 30 days!</h4>
               
               <div className="flex gap-3 mb-6">
                 <img 
@@ -913,7 +913,7 @@ export default function App() {
                 className="w-full bg-[#00aff0] text-white font-bold py-3.5 rounded-full flex items-center justify-between px-6 shadow-lg shadow-blue-100"
               >
                 <span>SUBSCRIBE</span>
-                <span>$5 for 30 days</span>
+                <span>$3 for 30 days</span>
               </motion.button>
               
               <p className="text-gray-400 text-xs mt-3 text-center">
