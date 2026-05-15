@@ -252,7 +252,7 @@ export default function App() {
                   <>
                     <div className="relative h-32 overflow-hidden">
                       <img 
-                        src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/679110024_27206397482298416_7909903339679338383_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=cGH-uDcXZQIQ7kNvwGy0YH4&_nc_oc=AdpTlAFQo8zTHw4Tex33c_bZbr6U4os8LIriqxmLqWkQuloMunI6Db2oz_WQ_FH-SNiEL2fa8cE2RN_4JAy92Vyu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QHX8P6iFr-BMO2Hu3lnSylP8nTZy8d7LteLDMZ3pSg1jg&oe=6A1DC6C4" 
+                        src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/672573913_1369570918552789_5749620680858795523_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=3L8-odH_igEQ7kNvwFdIHul&_nc_oc=AdqGxLeBz_63SpZxlEcw-GKIyfIGvu4h-Yt_nw0Co7z5RrZpW6BaTBVzbV0OC1uIB6-sD4T-JGSDAMWYKsd5Fr68&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QEQz1EZegD86Cun4Hu8c2MGrRvHdnxgQkmV5NbezGMQ9Q&oe=6A2E4CB7" 
                         alt="Cover" 
                         className="w-full h-full object-cover"
                         referrerPolicy="no-referrer"
