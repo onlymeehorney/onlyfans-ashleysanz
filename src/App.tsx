@@ -266,7 +266,7 @@ export default function App() {
                         <div className="relative">
                           <div className="w-24 h-24 rounded-full border-4 border-white overflow-hidden shadow-md">
                             <img 
-                              src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/684194965_2140931826703602_7584058854748962746_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=-9atwwam4a8Q7kNvwFfyBU4&_nc_oc=Adohvy9KNe8e4lVX1TpeqCPCJBRGcDZDDGsW7IBta9xQnGoqlCxJGreq-1ZWq1sF_CAaNjsop2MNlsNKm3nb9Epm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QE7rEdMZfYVfY5mKiRKp-sCinK7jgtUg8yczVbZzW3XgQ&oe=6A1DEEC3" 
+                              src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/688752046_1312595214411060_5820117823743280920_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=updtTCzyzs8Q7kNvwHibl8G&_nc_oc=AdqCAn6nw8odDd28Tidkr0hszRqI20Hfv2p39HZsjxPgpBzGz3nwZrcGjsAycxbnfwfTvjnDKUVsmGOfnE95jcWC&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QH4syaANF2jBtIxWJi-3cSmyP7XEt7nG1d-sAhBoThY1g&oe=6A2E37F4" 
                               alt="Avatar" 
                               className="w-full h-full object-cover"
                               referrerPolicy="no-referrer"
@@ -278,9 +278,9 @@ export default function App() {
 
                       <div className="pt-14 mb-6">
                         <h3 className="text-xl font-bold flex items-center gap-1">
-                          Pamela R. <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+                          Ashley Sanz <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
                         </h3>
-                        <p className="text-gray-400 text-sm">@pameladr</p>
+                        <p className="text-gray-400 text-sm">@ashleysanzz</p>
                       </div>
 
                       {/* Benefits */}
@@ -800,7 +800,7 @@ export default function App() {
       {/* Header / Cover */}
       <div className="relative h-48 sm:h-64 overflow-hidden">
         <img 
-          src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/679110024_27206397482298416_7909903339679338383_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=cGH-uDcXZQIQ7kNvwGy0YH4&_nc_oc=AdpTlAFQo8zTHw4Tex33c_bZbr6U4os8LIriqxmLqWkQuloMunI6Db2oz_WQ_FH-SNiEL2fa8cE2RN_4JAy92Vyu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QHX8P6iFr-BMO2Hu3lnSylP8nTZy8d7LteLDMZ3pSg1jg&oe=6A1DC6C4" 
+          src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/672573913_1369570918552789_5749620680858795523_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=3L8-odH_igEQ7kNvwFdIHul&_nc_oc=AdqGxLeBz_63SpZxlEcw-GKIyfIGvu4h-Yt_nw0Co7z5RrZpW6BaTBVzbV0OC1uIB6-sD4T-JGSDAMWYKsd5Fr68&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QEQz1EZegD86Cun4Hu8c2MGrRvHdnxgQkmV5NbezGMQ9Q&oe=6A2E4CB7" 
           alt="Cover" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
@@ -811,7 +811,7 @@ export default function App() {
           </button>
           <div className="flex flex-col">
             <h1 className="text-white font-bold text-lg flex items-center gap-1 drop-shadow-md">
-              Pamela R. <Check size={16} className="bg-[#00aff0] rounded-full p-0.5" />
+              Ashley Sanz <Check size={16} className="bg-[#00aff0] rounded-full p-0.5" />
             </h1>
             <div className="flex items-center gap-2 text-white/90 text-xs font-medium drop-shadow-md">
               <div className="flex items-center gap-1">
@@ -840,7 +840,7 @@ export default function App() {
         <div className="relative -mt-12 mb-4 inline-block">
           <div className="w-24 h-24 rounded-full border-4 border-white overflow-hidden shadow-lg">
             <img 
-              src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/684194965_2140931826703602_7584058854748962746_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=-9atwwam4a8Q7kNvwFfyBU4&_nc_oc=Adohvy9KNe8e4lVX1TpeqCPCJBRGcDZDDGsW7IBta9xQnGoqlCxJGreq-1ZWq1sF_CAaNjsop2MNlsNKm3nb9Epm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QE7rEdMZfYVfY5mKiRKp-sCinK7jgtUg8yczVbZzW3XgQ&oe=6A1DEEC3" 
+              src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/688752046_1312595214411060_5820117823743280920_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=updtTCzyzs8Q7kNvwHibl8G&_nc_oc=AdqCAn6nw8odDd28Tidkr0hszRqI20Hfv2p39HZsjxPgpBzGz3nwZrcGjsAycxbnfwfTvjnDKUVsmGOfnE95jcWC&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QH4syaANF2jBtIxWJi-3cSmyP7XEt7nG1d-sAhBoThY1g&oe=6A2E37F4" 
               alt="Profile" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
@@ -857,10 +857,10 @@ export default function App() {
         {/* Name & Handle */}
         <div className="mb-4">
           <h2 className="text-xl font-bold flex items-center gap-1">
-            Pamela R. <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+            Ashley Sanz <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
           </h2>
           <div className="flex items-center gap-2 text-gray-500 text-sm">
-            <span>@pameladr</span>
+            <span>@ashleysanzz</span>
             <span className="w-1 h-1 bg-gray-300 rounded-full" />
             <span>Available now</span>
           </div>
@@ -895,7 +895,7 @@ export default function App() {
               
               <div className="flex gap-3 mb-6">
                 <img 
-                  src="https://scontent.fsti5-1.fna.fbcdn.net/v/t1.15752-9/684194965_2140931826703602_7584058854748962746_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=-9atwwam4a8Q7kNvwFfyBU4&_nc_oc=Adohvy9KNe8e4lVX1TpeqCPCJBRGcDZDDGsW7IBta9xQnGoqlCxJGreq-1ZWq1sF_CAaNjsop2MNlsNKm3nb9Epm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti5-1.fna&_nc_ss=7a22e&oh=03_Q7cD5QE7rEdMZfYVfY5mKiRKp-sCinK7jgtUg8yczVbZzW3XgQ&oe=6A1DEEC3" 
+                  src="https://instagram.fsti5-1.fna.fbcdn.net/v/t1.15752-9/688752046_1312595214411060_5820117823743280920_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=updtTCzyzs8Q7kNvwHibl8G&_nc_oc=AdqCAn6nw8odDd28Tidkr0hszRqI20Hfv2p39HZsjxPgpBzGz3nwZrcGjsAycxbnfwfTvjnDKUVsmGOfnE95jcWC&_nc_zt=23&_nc_ht=instagram.fsti5-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QH4syaANF2jBtIxWJi-3cSmyP7XEt7nG1d-sAhBoThY1g&oe=6A2E37F4" 
                   alt="Avatar" 
                   className="w-12 h-12 rounded-full object-cover shrink-0"
                   referrerPolicy="no-referrer"
