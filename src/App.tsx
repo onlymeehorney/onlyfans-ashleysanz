@@ -278,9 +278,9 @@ export default function App() {
 
                       <div className="pt-14 mb-6">
                         <h3 className="text-xl font-bold flex items-center gap-1">
-                          Ashley Sanz <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+                          Goloso MMG <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
                         </h3>
-                        <p className="text-gray-400 text-sm">@ashleysanzz</p>
+                        <p className="text-gray-400 text-sm">@goloso.mmg</p>
                       </div>
 
                       {/* Benefits */}
@@ -774,7 +774,7 @@ export default function App() {
               </button>
               <div className="flex flex-col">
                 <h1 className="font-bold text-base flex items-center gap-1 leading-tight">
-                  Ashley Sanz <Check size={14} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+                  Goloso MMG <Check size={14} className="bg-[#00aff0] text-white rounded-full p-0.5" />
                 </h1>
                 <div className="flex items-center gap-1.5 text-xs text-gray-400">
                   <div className="w-2 h-2 bg-[#4caf50] rounded-full" />
