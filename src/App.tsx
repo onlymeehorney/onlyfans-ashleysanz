@@ -811,7 +811,7 @@ export default function App() {
           </button>
           <div className="flex flex-col">
             <h1 className="text-white font-bold text-lg flex items-center gap-1 drop-shadow-md">
-              Ashley Sanz <Check size={16} className="bg-[#00aff0] rounded-full p-0.5" />
+              Goloso MMG <Check size={16} className="bg-[#00aff0] rounded-full p-0.5" />
             </h1>
             <div className="flex items-center gap-2 text-white/90 text-xs font-medium drop-shadow-md">
               <div className="flex items-center gap-1">
@@ -857,10 +857,10 @@ export default function App() {
         {/* Name & Handle */}
         <div className="mb-4">
           <h2 className="text-xl font-bold flex items-center gap-1">
-            Ashley Sanz <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
+            Goloso MMG <Check size={18} className="bg-[#00aff0] text-white rounded-full p-0.5" />
           </h2>
           <div className="flex items-center gap-2 text-gray-500 text-sm">
-            <span>@ashleysanzz</span>
+            <span>@goloso.mmg</span>
             <span className="w-1 h-1 bg-gray-300 rounded-full" />
             <span>Available now</span>
           </div>
@@ -869,7 +869,7 @@ export default function App() {
         {/* Bio */}
         <div className={`text-sm space-y-3 text-gray-800 leading-relaxed ${isBioCollapsed ? 'line-clamp-2' : ''}`}>
           <p> hi guys <span className="text-[#00aff0] italic font-semibold">xoxo </span> 🫣 📈</p>
-          <p>FULLY NUDE CONTENT AVAILABLE VIA DMS!!! 💗</p>
+          <p>FULLY NUDE CONTENT AVAILABLE VIA DMS!!!</p>
           <p>.</p>
           <p>.</p>
           <p className="text-gray-500 text-xs">
