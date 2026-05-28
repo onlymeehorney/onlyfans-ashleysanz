@@ -868,7 +868,7 @@ export default function App() {
 
         {/* Bio */}
         <div className={`text-sm space-y-3 text-gray-800 leading-relaxed ${isBioCollapsed ? 'line-clamp-2' : ''}`}>
-          <p> hi guys <span className="text-[#00aff0] italic font-semibold">xoxo </span> 🫣 📈</p>
+          <p>:V <span className="text-[#00aff0] italic font-semibold">xoxo </span> 🫣 📈</p>
           <p>FULLY NUDE CONTENT AVAILABLE VIA DMS!!!</p>
           <p>.</p>
           <p>.</p>
